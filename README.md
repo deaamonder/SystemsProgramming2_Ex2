@@ -1,9 +1,9 @@
 Systems Programming 2 Ex2 @ Ariel University
 @author : diaa monder
 
-in this assigment we overload the operators we asked to overload.
+in this assignment we overload the operators we asked to overload.
 
-explaination about each operator overload :
+explanation about each operator overload :
 
     Addition Operator (operator+):
         This operator is overloaded to perform addition between two graphs.
